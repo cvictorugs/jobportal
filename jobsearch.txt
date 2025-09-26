@@ -1,0 +1,1013 @@
+{
+  "status": "OK",
+  "request_id": "0a5e7c69-3431-4b1f-a386-8abcbcf2067d",
+  "parameters": {
+    "query": "developer jobs in chicago",
+    "page": 1,
+    "num_pages": 1,
+    "date_posted": "all",
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "bHOvPZ1LwONWRuR-AAAAAA==",
+      "job_title": "Sr. Java Developer with Azure and AWS (Local and F2F Interview Must)",
+      "employer_name": "Jobs via Dice",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-with-azure-and-aws-local-and-f2f-interview-must-at-jobs-via-dice-4304567908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-with-azure-and-aws-local-and-f2f-interview-must-at-jobs-via-dice-4304567908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/d2e515ca-d290-4ff2-bb65-ce1daa6083d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Tech Rakers, is seeking the following. Apply via Dice today!\n\nJob Title: Sr. Java Developer with Azure and AWS Location: Chicago, IL (Local and F2F Interview)\n\nDuration: 12 Months\n\nRequired Skills:\n\n8+ years of Java Development experience\n\n3+ years of Cloud Development (ideally with Azure). AWS experience would be helpful, but they want to focus on AZURE initially.\n• Core Java (Java 17+)\n• Spring Boot\n• Spring Data JPA & Hibernate\n• Spring Security (authentication, authorization, JWT)\n• JUnit & Mockito for testing\n• Relational databases: Azure SQL, Snowflake, Oracle\n• Non-relational databases: Redis, MongoDB\n• Messaging: Kafka\n• Hands-on experience with Docker and Kubernetes\n• Advanced Azure developer skills (knowledge of resources such as AKS, APIM, App Gateway, Front Door, Key Vaults, etc.)\n• ReactJS for UI development\n• Basic understanding of Infrastructure as Code (Terraform)\n• Basics of CI/CD pipelines",
+      "job_is_remote": false,
+      "job_posted_at": "22 hours ago",
+      "job_posted_at_timestamp": 1758736800,
+      "job_posted_at_datetime_utc": "2025-09-24T18:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbHOvPZ1LwONWRuR-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "8+ years of Java Development experience",
+          "3+ years of Cloud Development (ideally with Azure)",
+          "AWS experience would be helpful, but they want to focus on AZURE initially",
+          "Core Java (Java 17+)",
+          "Spring Data JPA & Hibernate",
+          "Spring Security (authentication, authorization, JWT)",
+          "JUnit & Mockito for testing",
+          "Relational databases: Azure SQL, Snowflake, Oracle",
+          "Non-relational databases: Redis, MongoDB",
+          "Messaging: Kafka",
+          "Hands-on experience with Docker and Kubernetes",
+          "Advanced Azure developer skills (knowledge of resources such as AKS, APIM, App Gateway, Front Door, Key Vaults, etc.)",
+          "ReactJS for UI development",
+          "Basic understanding of Infrastructure as Code (Terraform)",
+          "Basics of CI/CD pipelines"
+        ],
+        "Responsibilities": [
+          "Duration: 12 Months",
+          "Spring Boot"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "LfXWNbtiHEqzxMnvAAAAAA==",
+      "job_title": "Java Developer (Azure) in Chicago, IL (W2 candidates)",
+      "employer_name": "HYR Global Source Inc",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfAXIo4plVpb6OYTNXelx97yGK6kEOB6kxUEZ&s=0",
+      "employer_website": "http://www.hyrglobalsource.com/",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-azure-in-chicago-il-w2-candidates-at-hyr-global-source-inc-4305614910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/java-developer-azure-in-chicago-il-w2-candidates-at-hyr-global-source-inc-4305614910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/3f1732ce-5ffd-4160-a75c-7c95c5481fd3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/HYR-GLOBAL-SOURCE-INC/Job/Java-Developer-(Azure)-in-Chicago,-IL-(W2-candidates)/-in-Chicago,IL?jid=1f7213648f35a434&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Job Title: Senior Java Developer(Strong Azure experience)\n\nLocation: Chicago, IL (Hybrid – 3 days onsite per week)\n\nPosition Overview\n• We are seeking a highly skilled Senior Java Developer with strong expertise in cloud-native development on Microsoft Azure.\n• The ideal candidate will have deep backend development experience, hands-on exposure to DevOps practices, and familiarity with modern UI technologies.\n• This role offers the opportunity to contribute to large-scale enterprise transformation initiatives, particularly in moving legacy applications from on-prem to the cloud.\n\nKey Responsibilities\n• Design, develop, and maintain scalable Java-based applications using Java 17+, Spring Boot, Spring Data JPA, Hibernate, and Spring Security.\n• Build, deploy, and optimize cloud-native applications on Microsoft Azure.\n• Implement secure authentication and authorization solutions using JWT and Spring Security.\n• Develop microservices architecture integrating with relational and non-relational databases such as Azure SQL, Snowflake, Oracle, Redis, and MongoDB.\n• Work with Kafka for messaging and event-driven applications.\n• Deploy and manage applications with Docker, Kubernetes, and Azure AKS.\n• Collaborate with UI teams to integrate ReactJS components.\n• Support automation and infrastructure as code with Terraform and CI/CD pipelines.\n• Write and maintain unit and integration tests (JUnit, Mockito).\n\nRequired Skills & Qualifications\n• 8+ years of Java development experience.\n• 3+ years of cloud development, specifically on Microsoft Azure (AWS experience is a plus).\n• Strong expertise in Spring Boot, Spring Data JPA, Hibernate, and Spring Security.\n• Hands-on experience with Docker and Kubernetes.\n• Proficiency in Azure resources (AKS, APIM, App Gateway, Front Door, Key Vaults, etc.).\n• Familiarity with CI/CD pipelines, Terraform, and DevOps practices.\n• Experience with ReactJS is a plus.\n\nFollow us on LinkedIn - https://www.linkedin.com/company/hyr-global-source-inc",
+      "job_is_remote": false,
+      "job_posted_at": "23 hours ago",
+      "job_posted_at_timestamp": 1758733200,
+      "job_posted_at_datetime_utc": "2025-09-24T17:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLfXWNbtiHEqzxMnvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "We are seeking a highly skilled Senior Java Developer with strong expertise in cloud-native development on Microsoft Azure",
+          "The ideal candidate will have deep backend development experience, hands-on exposure to DevOps practices, and familiarity with modern UI technologies",
+          "8+ years of Java development experience",
+          "Strong expertise in Spring Boot, Spring Data JPA, Hibernate, and Spring Security",
+          "Hands-on experience with Docker and Kubernetes",
+          "Proficiency in Azure resources (AKS, APIM, App Gateway, Front Door, Key Vaults, etc.)",
+          "Familiarity with CI/CD pipelines, Terraform, and DevOps practices"
+        ],
+        "Responsibilities": [
+          "This role offers the opportunity to contribute to large-scale enterprise transformation initiatives, particularly in moving legacy applications from on-prem to the cloud",
+          "Design, develop, and maintain scalable Java-based applications using Java 17+, Spring Boot, Spring Data JPA, Hibernate, and Spring Security",
+          "Build, deploy, and optimize cloud-native applications on Microsoft Azure",
+          "Implement secure authentication and authorization solutions using JWT and Spring Security",
+          "Develop microservices architecture integrating with relational and non-relational databases such as Azure SQL, Snowflake, Oracle, Redis, and MongoDB",
+          "Work with Kafka for messaging and event-driven applications",
+          "Deploy and manage applications with Docker, Kubernetes, and Azure AKS",
+          "Collaborate with UI teams to integrate ReactJS components",
+          "Support automation and infrastructure as code with Terraform and CI/CD pipelines",
+          "Write and maintain unit and integration tests (JUnit, Mockito)"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "e4ZYkxFHk1PgznhgAAAAAA==",
+      "job_title": "Developer - Information Technology",
+      "employer_name": "United Airlines",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DMswunk7F25_BeXSf2w8JVHG65s4lc7v5wfG&s=0",
+      "employer_website": "https://www.united.com",
+      "job_publisher": "United Airlines Jobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://careers.united.com/us/en/job/WHQ00025355/Developer-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "United Airlines Jobs",
+          "apply_link": "https://careers.united.com/us/en/job/WHQ00025355/Developer-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=da0f8a175267ee15&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/United-Airlines,-Inc/Job/Developer-Information-Technology/-in-Chicago,IL?jid=5f2de09c404e5f59&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/developer-information-technology-united-airlines-JV_IC1128808_KO0,32_KE33,48.htm?jl=1009831735494&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/developer-information-technology-at-united-airlines-4278987671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/WA8Tg4wdkE1sXEhuqfDRy5FxRaXbERR-ltFe4aTIyZWV_mn1qI65cg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Career.io",
+          "apply_link": "https://career.io/job/developer-information-technology-chicago-united-airlines-ea2fd53a0ddec0ddd9d59660c5c6ac81?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/developer-information-technology_ad01c806-69f8-4910-8a5f-5e0f4991f119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nUnited's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob overview and responsibilities\nThe Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery. The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions. This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments. The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction.\n• Assist in design, develop and modify software applications/systems\n• Collaborates with cross-functional teams to understand business requirements and deliver solutions\n• Provides support to the software development leads (Ex: Senior Developer)\n• Works on one or more moderate to complex projects\n• Applies security code best practices throughout development cycle\n• Contributes to software documentation and user manuals\n• Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software applications\n• Participates in code reviews to ensure code adheres to standards\n• Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions\n• Stays up to date on the latest industry trends and technology\nQualifications\n\nWhat’s needed to succeed (Minimum Qualifications):\n• Bachelor's degree\n• Computer Science, Software Engineering, or related field preferred\n• 3+ years of Software Development experience\n• Proficient in a coding language and building back-end components using C# and .NET\n• Cloud Technologies\n• Demonstrate advance knowledge of development methodologies, software design and design patterns\n• Knowledge of Object-Oriented systems design and Application Development\n• Must be legally authorized to work in the United States for any employer without sponsorship\n\nWhat will help you propel from the pack (Preferred Qualifications):\n• Airlines industry experience is a plus\n• AWS highly preferred\n• Experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)\n\nThe base pay range for this role is $87,780.00 to $114,376.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1758499200,
+      "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": [
+        "dental_coverage",
+        "health_insurance",
+        "paid_time_off"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De4ZYkxFHk1PgznhgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree",
+          "3+ years of Software Development experience",
+          "Proficient in a coding language and building back-end components using C# and .NET",
+          "Cloud Technologies",
+          "Demonstrate advance knowledge of development methodologies, software design and design patterns",
+          "Knowledge of Object-Oriented systems design and Application Development",
+          "Must be legally authorized to work in the United States for any employer without sponsorship"
+        ],
+        "Benefits": [
+          "The base pay range for this role is $87,780.00 to $114,376.00",
+          "The base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills",
+          "This position is also eligible for bonus and/or long-term incentive compensation awards",
+          "You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges"
+        ],
+        "Responsibilities": [
+          "The Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery",
+          "The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions",
+          "This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments",
+          "The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction",
+          "Assist in design, develop and modify software applications/systems",
+          "Collaborates with cross-functional teams to understand business requirements and deliver solutions",
+          "Provides support to the software development leads (Ex: Senior Developer)",
+          "Works on one or more moderate to complex projects",
+          "Applies security code best practices throughout development cycle",
+          "Contributes to software documentation and user manuals",
+          "Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software applications",
+          "Participates in code reviews to ensure code adheres to standards",
+          "Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions",
+          "Stays up to date on the latest industry trends and technology"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "hHpot-vi7_CpJ6zUAAAAAA==",
+      "job_title": "FullStack UI developer ()",
+      "employer_name": "Hanker Systems Inc",
+      "employer_logo": null,
+      "employer_website": "https://hankersystems.com",
+      "job_publisher": "Dice",
+      "job_employment_type": "Contractor",
+      "job_employment_types": [
+        "CONTRACTOR"
+      ],
+      "job_apply_link": "https://www.dice.com/job-detail/c730ab08-a2c8-4ab8-8783-203c7b52497e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/c730ab08-a2c8-4ab8-8783-203c7b52497e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Fullstack Jobs",
+          "apply_link": "https://fullstackjob.com/job/334UhUmefh5L706R9JvyBkmQaL8/FullStack%20UI%20developer%20()?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Hello,\n\nThis is Archana from Hanker Systems Inc. I'm tryingt o reach you regarding one of our client.\n\nJob Title: Full Stack UI Engineer (TypeScript/Node.js/React) Location: Chicago, IL ( 3 days a week)\nJob Duration: long term Contract\n\nClient: Dexian/ Northern Trust\n\nLocals only\n\nAbout the Role\n• We are looking for a Full Stack Engineer skilled in TypeScript, JavaScript, Node.js, and React to build and maintain modern web applications. You ll work across the stack, integrating APIs, databases, and secure authentication systems while supporting DevOps practices.\n\nQualifications\n• Strong experience with TypeScript and JavaScript\n• Expertise in Node.js backend and React frontend\n• Knowledge of APIs, GraphQL, and databases\n• Familiarity with OAuth/SSO and DevOps practices\n• Strong problem-solving and communication skills\n\nResponsibilities\n• Develop scalable applications using TypeScript, Node.js, and React\n• Integrate with RESTful APIs, GraphQL, SQL/NoSQL databases\n• Implement secure authentication and authorization (OAuth, SSO)\n• Work with CI/CD pipelines and cloud-based deployments\n• Troubleshoot, debug, and optimize application performance\n• Collaborate with cross-functional teams\n\nThanks",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1758499200,
+      "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhHpot-vi7_CpJ6zUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 50,
+      "job_max_salary": 60,
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "We are looking for a Full Stack Engineer skilled in TypeScript, JavaScript, Node.js, and React to build and maintain modern web applications",
+          "Strong experience with TypeScript and JavaScript",
+          "Expertise in Node.js backend and React frontend",
+          "Knowledge of APIs, GraphQL, and databases",
+          "Familiarity with OAuth/SSO and DevOps practices",
+          "Strong problem-solving and communication skills"
+        ],
+        "Responsibilities": [
+          "You ll work across the stack, integrating APIs, databases, and secure authentication systems while supporting DevOps practices",
+          "Develop scalable applications using TypeScript, Node.js, and React",
+          "Integrate with RESTful APIs, GraphQL, SQL/NoSQL databases",
+          "Implement secure authentication and authorization (OAuth, SSO)",
+          "Work with CI/CD pipelines and cloud-based deployments",
+          "Troubleshoot, debug, and optimize application performance",
+          "Collaborate with cross-functional teams"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "MlmVOhXxg-beCKFbAAAAAA==",
+      "job_title": "Software Engineer - IAM",
+      "employer_name": "University of Chicago",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmibY-1NfZ8cSTSju6g5Qgf5b2roLq1zToSKe&s=0",
+      "employer_website": "http://www.uchicago.edu/",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-iam-at-university-of-chicago-4304329227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-iam-at-university-of-chicago-4304329227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=7d342cd1af6a4594&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/software-engineer-iam_d215fe12-0379-47a7-803d-741ff70beec7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "AnitaB.org Job Board",
+          "apply_link": "https://jobs.anitab.org/companies/university-of-chicago/jobs/59281235-software-engineer-iam?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/tGIXVEDpFUEQkr7S6Pm_Kqa9kSvE5389KFwY_0PavmnHksqBMVBA9Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Rise - Jobs",
+          "apply_link": "https://joinrise.co/uchicago/software-engineer-iam-2heg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/software-engineer-iam-jobs/F3BEF907DA30B30A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jora",
+          "apply_link": "https://us.jora.com/job/Software-Engineer-45603adbd28cec0eeea2dd6242573c53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Department\n\nGlobus Software Engineering 1\n\nAbout The Department\n\nGlobus (www.globus.org) is a sustainable, non-profit unit within The University of Chicago delivering solutions to the research community worldwide. Globus develops and provides critical services that support scientific research for governmental, academic, and commercial organizations in a wide range of disciplines including life sciences, physics, and astronomy. We develop and operate commercial-quality, cloud-based software application and platform services used by 10s of thousands of researchers to manage their large–and growing–data management challenges. We have offices located at the NBC Tower in the heart of downtown Chicago and remote employees who work-from-home. Globus, together with Globus Labs, a research group within the University of Chicago, and part of the Data Science and Learning Division at Argonne National Labs, develop and deploy cutting edge technologies to solve new challenges facing the scientific community and enable break-through scientific discoveries.\n\nJob Summary\n\nReporting to the Software Development Manager, the focus of this position is to architect and build identity and access management systems for Globus Software as a Service (SaaS) and Platform as a Service (PaaS) products. As a member of the product team, your work will support researchers worldwide by delivering key security solutions that underpin the Globus research data management services, and a platform that secures applications and clients across a diverse research ecosystem.\n\nWe're looking for skilled Python engineers to create, operate, and integrate identity management services through the use of modern technologies and techniques from Web and Cloud computing. This role is perfect if you are interested in tackling the challenges of improving online security and privacy management while simplifying usability. If you enjoy collaborative, innovative, mission-driven environments, Globus could be a great fit for you!\n\nResponsibilities\n• Architecture and Design: Participate in the definition and documentation of requirements, architecture and design of security and authentication infrastructure, based on knowledge of relevant software technologies and standards being developed and used in commercial and scientific communities.\n• Software Development: Develop, test, document, deploy and maintain high-quality software, including REST interfaces, command-line interfaces, email and messaging services, and identity provider integrations.\n• Support and Documentation: Work in close collaboration with the Globus front line support and professional services teams, and directly with end users, to provide technical support services. Document standard operating procedures and protocols.\n• Team Coordination and Professional Development: Contribute to team coordination and development activities, including project planning, project reporting, and recruitment. Stay abreast of current security best practices and help evangelize security standards within the organization.\n• Investigates, analyzes and resolves day-to-day technical problems using standard procedures.\n• Works with stakeholders to gather and analyze requirements for developmental programs. Receives a moderate level of guidance to design applications to meet University and business requirements.\n• Performs other related work as needed.\n\nEducation\n\nMinimum Qualifications\n\nMinimum requirements include a college or university degree in related field.\n\nWork Experience\n\nMinimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline.\n\nCertifications\n\nPreferred Qualifications\n\nExperience\n• 4+ years of relevant programming experience developing, implementing, and debugging Python for personal or professional projects.\n• 1+ years Experience with SQL, Databases, and web technologies.\n• 1+ years of experience with web SSO and authentication protocols like OAuth2 and SAML.\n\nTechnical Skills Or Knowledge\n• Python web framework (e.g. Flask/Django).\n• SQL databases (e.g. PostgreSQL, MySQL, SQLite).\n• Implementing REST API’s.\n• Web technologies (e.g. Javascript, HTML, CSS).\n• Unit testing and continuous integration tools (e.g. pytest, Jenkins).\n• Contributing to an open source project.\n• Background with containers (e.g. Docker, Kubernetes, Singularity).\n• Shell scripting (e.g., bash).\n• Agile (e.g. Scrum) development processes.\n• Use standard software development applications and tools.\n\nPreferred Competencies\n• Interest in modern security and identity management technologies.\n• Exposure to fundamental concepts, practices, and procedures of software development.\n• Excellent verbal and written communication skills.\n• Problem solving skills.\n• Ability to use standard software development applications and tools.\n• Ability to prioritize and manage workload to meet critical project milestones and deadlines.\n• Ability to work in a collaborative team environment.\n• Attention to detail.\n• Confidentiality related to sensitive University matters such as, strategic initiatives, trade secrets, quiet periods, and scientific discoveries yet to be put in the public domain.\n• Ability to work on a flexible schedule, which will include occasional late night and/or weekend hours.\n\nWorking Conditions\n• This job requires occasional evening or weekend hours.\n• Option available for remote work with occasional required attendance at in-person meetings.\n\nApplication Documents\n• Resume (required)\n\nWhen applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application.\n\nJob Family\n\nInformation Technology\n\nRole Impact\n\nIndividual Contributor\n\nScheduled Weekly Hours\n\n37.5\n\nDrug Test Required\n\nNo\n\nHealth Screen Required\n\nNo\n\nMotor Vehicle Record Inquiry Required\n\nNo\n\nPay Rate Type\n\nSalary\n\nFLSA Status\n\nExempt\n\nPay Range\n\n$90,000.00 - $100,000.00\n\nThe included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.\n\nBenefits Eligible\n\nYes\n\nThe University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook.\n\nPosting Statement\n\nThe University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.\n\nJob seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form.\n\nAll offers of employment are contingent upon a background check that includes a review of conviction history. A conviction does not automatically preclude University employment. Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position.\n\nThe University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1758585600,
+      "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": [
+        "paid_time_off",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMlmVOhXxg-beCKFbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 90000,
+      "job_max_salary": 100000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "This role is perfect if you are interested in tackling the challenges of improving online security and privacy management while simplifying usability",
+          "Minimum requirements include a college or university degree in related field",
+          "Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline",
+          "4+ years of relevant programming experience developing, implementing, and debugging Python for personal or professional projects",
+          "1+ years Experience with SQL, Databases, and web technologies",
+          "1+ years of experience with web SSO and authentication protocols like OAuth2 and SAML",
+          "Technical Skills Or Knowledge",
+          "Python web framework (e.g. Flask/Django)",
+          "SQL databases (e.g. PostgreSQL, MySQL, SQLite)",
+          "Implementing REST API’s",
+          "Web technologies (e.g. Javascript, HTML, CSS)",
+          "Unit testing and continuous integration tools (e.g. pytest, Jenkins)",
+          "Background with containers (e.g",
+          "Docker, Kubernetes, Singularity)",
+          "Shell scripting (e.g., bash)",
+          "Agile (e.g",
+          "When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application",
+          "Drug Test Required"
+        ],
+        "Benefits": [
+          "Scheduled Weekly Hours",
+          "Salary",
+          "FLSA Status",
+          "$90,000.00 - $100,000.00",
+          "The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting",
+          "Benefits Eligible",
+          "The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off"
+        ],
+        "Responsibilities": [
+          "Reporting to the Software Development Manager, the focus of this position is to architect and build identity and access management systems for Globus Software as a Service (SaaS) and Platform as a Service (PaaS) products",
+          "As a member of the product team, your work will support researchers worldwide by delivering key security solutions that underpin the Globus research data management services, and a platform that secures applications and clients across a diverse research ecosystem",
+          "Architecture and Design: Participate in the definition and documentation of requirements, architecture and design of security and authentication infrastructure, based on knowledge of relevant software technologies and standards being developed and used in commercial and scientific communities",
+          "Software Development: Develop, test, document, deploy and maintain high-quality software, including REST interfaces, command-line interfaces, email and messaging services, and identity provider integrations",
+          "Support and Documentation: Work in close collaboration with the Globus front line support and professional services teams, and directly with end users, to provide technical support services",
+          "Document standard operating procedures and protocols",
+          "Team Coordination and Professional Development: Contribute to team coordination and development activities, including project planning, project reporting, and recruitment",
+          "Stay abreast of current security best practices and help evangelize security standards within the organization",
+          "Investigates, analyzes and resolves day-to-day technical problems using standard procedures",
+          "Works with stakeholders to gather and analyze requirements for developmental programs",
+          "Receives a moderate level of guidance to design applications to meet University and business requirements",
+          "Performs other related work as needed",
+          "Contributing to an open source project",
+          "Scrum) development processes",
+          "Use standard software development applications and tools",
+          "This job requires occasional evening or weekend hours",
+          "Option available for remote work with occasional required attendance at in-person meetings"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "PoyX7RT8Se1Rt-ajAAAAAA==",
+      "job_title": "Front-End Software Developer - Clearing",
+      "employer_name": "Marex",
+      "employer_logo": null,
+      "employer_website": "http://www.marex.com/",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=8bddf7ad508755d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=8bddf7ad508755d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Marex/Job/Front-End-Software-Developer-Clearing/-in-Chicago,IL?jid=11fc2b4905882717&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/front-end-software-developer-clearing-marex-JV_IC1128808_KO0,37_KE38,43.htm?jl=1009881883037&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/front-end-software-developer-clearing-at-marex-4280806092?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com.br/job-listing/front-end-software-developer-clearing-marex-JV_IC1128808_KO0,37_KE38,43.htm?jl=1009881883037&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/front-end-software-developer-clearing_05e3f639-d5b1-498c-8802-e6847341f787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/front-end-software-developer-clearing/7229995?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "GrabJobs",
+          "apply_link": "https://grabjobs.co/us/job/full-time/others/frontend-software-developer-clearing-144386528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Diversified. Resilient. Dynamic.\n\nMarex is a global financial services platform, providing essential liquidity, market access and infrastructure services to clients in the energy, commodities and financial markets.\n\nThe Group provides comprehensive breadth and depth of coverage across four core services: Market Making, Clearing, Hedging and Investment Solutions and Agency and Execution. It has a major franchise in many major metals, energy and agricultural products, executing around 50 million trades and clearing 205 million contracts in 2022. The Group provides access to the world's major commodity markets, covering a broad range of clients that include some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers.\n\nWith more than 35 offices around the globe, and over 2300 dedicated people enabling access to exchanges and technology-powered services.\n\nFor more information visit www.marex.com (http://www.marex.com/)\n\n(http://www.marex.com/)\n\n(http://www.marex.com/)\n\nPurpose of Role:\n\nThe Software Developer, Clearing (Front-End) contributes to the creation and enhancement of secure, responsive, web applications tailored for front-to-back clearing technology. Expertise in developing, React, and Typescript, coupled with a strong emphasis on testing, are instrumental in delivering robust and reliable applications.\n\nEmphasis on front end technology development.\n\nThis role leverages architectural experience to mature Marex's existing software and efficiently migrate legacy platforms to the cloud and works closely with the platform engineering team to ensure seamless integration and deployment, playing a crucial part in advancing Marex's technology stack and maintaining the highest standards of performance security.\n\nMarex has unique access across markets with significant share globally both on and off exchange. The depth of knowledge amongst its teams and divisions provides its customers with clear advantage, and its technology-led service provides access to all major exchanges, order-flow management via screen, voice and DMA, plus award-winning data, insights and analytics.\n\nThe Technology Department delivers differentiation, scalability and security for the business. Reporting to the COO, Technology provides digital tools, software services and infrastructure globally to all business groups. Software development and support teams work in agile ‘streams' aligned to specific business areas. Our other teams work enterprise-wide to provide critical services including our global service desk, network and system infrastructure, IT operations, security, enterprise architecture and design.\n\nThe Software Development function creates and maintains applications, frameworks and other software components to deliver to business requirements. Developers conceive, specify, design, code, document, test, and delivery bug fixes as needed to provide high quality software solutions. Each Development team is aligned to one of Marex's business divisions and works with a corresponding Business Technology and Application Support team\n\nResponsibilities:\n• Design, code and test all components of modern web applications.\n• Contribute to the overall architecture and design of the technology created/maintained by the development delivery team.\n• Develop solutions to a high standard that is maintainable, testable and meets the requirement's acceptance criteria.\n• Adhere to development best practices and processes.\n• Communicate with team members, introduce ideas and keep abreast of the latest technologies.\n• Liaise with business users to gather application requirements\n• Ensure delivered systems are of production quality. Ensure software is adequately documented for handover to the business.\n• Follow coding standards and defined development process.\n• Resolve third line support issues in a professional and timely manner\n• Ensuring compliance with the company's regulatory requirements under the SEC, FINRA, NFA, CFTC and other applicable exchanges.\n• Adhere to the operational risk framework for your role ensuring that all regulatory or company determined parameters are complied with.\n• Role model for demonstrating highest level standards of integrity and conduct and reflecting Company Values.\n• At all times complying with Marex's Code of Conduct\n• To ensure that you are fully aware of and adhere to internal policies that relate to you, your role or any other activities for which you have any level of responsibility\n• To report any breaches of policy to Compliance and/ or your supervisor as required\n• To escalate risk events immediately\n• To provide input to risk management processes, as required.\n\nThe Company may require you to carry out other duties from time to time.\n\nCompetencies, Skills and Experience:\n\nCompetencies\n• A collaborative team player, approachable, self-efficient and influences a positive work environment\n• Demonstrates curiosity\n• Resilient in a challenging, fast-paced environment\n• Excels at building relationships, networking and influencing others\n• Strategic collaborator with insight and agility, able to anticipate future challenges, ensuring operational effectiveness\n\nSkills and Experience\n\nEssential:\n• At least 5 (five) years of front-end development (React) but prefer 7-10 (seven to ten) years' experience.\n• At least 2 (two) years of experience with C# (preferred) and/or Node.js.\n• Experience and knowledge of Agile and scrum development methodologies.\n• Knowledge of TDD (Test Driven Development) and BDD (Behavior Driven Development) .\n• Excellent verbal and written communication skills.\n• Experience working in a regulated environment and knowledge of the risk and compliance requirements associated with this.\n• Bachelor's Degree is preferred.\n\nPreferred:\n• Experience with NoSQL or RDMS databases.\n• Experience working with Modern CI/CD and DevOps practices.\n• Experience with Cloud technology, ideally AWS (Amazon Web Services.\n• Financial services experience preferred but not required.\n\nSalary Range: $120,000 to $175,000 per year and eligible for discretionary bonus.\n\nMarex Benefits for 2025 (https://www.marex.com/usa-benefits-at-a-glance/)\n\nCompany Values:\n\nActing as a role model for the values of the Company:\n\nRespect\n\nClients are at the heart of our business, with superior execution and superb client service the foundation of the firm. We respect our clients and always treat them fairly.\n\nIntegrity\n\nDoing business the right way is the only way. We hold ourselves to a high ethical standard in everything we do – our clients expect this and we demand it of ourselves.\n\nCollaborative\nWe work in teams – open and direct communication and the willingness to work hard and collaboratively are the basis for effective teamwork. Working well with others is necessary for us to succeed at what we do.\n\nDeveloping our People\nOur people are the basis of our competitive advantage. We look to “grow our own” and make Marex the place ambitious, hardworking, talented people choose to build their careers.\n\nAdaptable and Nimble\nOur size and flexibility is an advantage. We are big enough to support our client's various needs, and adaptable and nimble enough to respond quickly to changing conditions or requirements. A non-bureaucratic, but well controlled environment fosters initiative as well as employee satisfaction.\n\nMarex is fully committed to the elimination of unlawful or unfair discrimination and values the differences that a diverse workforce brings to the company.\n\nWe are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by the law.\n\n#LI-PP1",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1758240000,
+      "job_posted_at_datetime_utc": "2025-09-19T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPoyX7RT8Se1Rt-ajAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 120000,
+      "job_max_salary": 175000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "A collaborative team player, approachable, self-efficient and influences a positive work environment",
+          "Demonstrates curiosity",
+          "Resilient in a challenging, fast-paced environment",
+          "Excels at building relationships, networking and influencing others",
+          "Strategic collaborator with insight and agility, able to anticipate future challenges, ensuring operational effectiveness",
+          "At least 5 (five) years of front-end development (React) but prefer 7-10 (seven to ten) years' experience",
+          "Experience and knowledge of Agile and scrum development methodologies",
+          "Knowledge of TDD (Test Driven Development) and BDD (Behavior Driven Development) ",
+          "Excellent verbal and written communication skills",
+          "Experience working in a regulated environment and knowledge of the risk and compliance requirements associated with this",
+          "Doing business the right way is the only way",
+          "We are big enough to support our client's various needs, and adaptable and nimble enough to respond quickly to changing conditions or requirements",
+          "A non-bureaucratic, but well controlled environment fosters initiative as well as employee satisfaction"
+        ],
+        "Benefits": [
+          "Salary Range: $120,000 to $175,000 per year and eligible for discretionary bonus",
+          "Marex Benefits for 2025 (https://www.marex.com/usa-benefits-at-a-glance/)",
+          "Our size and flexibility is an advantage"
+        ],
+        "Responsibilities": [
+          "The Software Developer, Clearing (Front-End) contributes to the creation and enhancement of secure, responsive, web applications tailored for front-to-back clearing technology",
+          "Software development and support teams work in agile ‘streams' aligned to specific business areas",
+          "Our other teams work enterprise-wide to provide critical services including our global service desk, network and system infrastructure, IT operations, security, enterprise architecture and design",
+          "The Software Development function creates and maintains applications, frameworks and other software components to deliver to business requirements",
+          "Developers conceive, specify, design, code, document, test, and delivery bug fixes as needed to provide high quality software solutions",
+          "Each Development team is aligned to one of Marex's business divisions and works with a corresponding Business Technology and Application Support team",
+          "Design, code and test all components of modern web applications",
+          "Contribute to the overall architecture and design of the technology created/maintained by the development delivery team",
+          "Develop solutions to a high standard that is maintainable, testable and meets the requirement's acceptance criteria",
+          "Adhere to development best practices and processes",
+          "Communicate with team members, introduce ideas and keep abreast of the latest technologies",
+          "Liaise with business users to gather application requirements",
+          "Ensure delivered systems are of production quality",
+          "Ensure software is adequately documented for handover to the business",
+          "Follow coding standards and defined development process",
+          "Resolve third line support issues in a professional and timely manner",
+          "Ensuring compliance with the company's regulatory requirements under the SEC, FINRA, NFA, CFTC and other applicable exchanges",
+          "Adhere to the operational risk framework for your role ensuring that all regulatory or company determined parameters are complied with",
+          "Role model for demonstrating highest level standards of integrity and conduct and reflecting Company Values",
+          "At all times complying with Marex's Code of Conduct",
+          "To ensure that you are fully aware of and adhere to internal policies that relate to you, your role or any other activities for which you have any level of responsibility",
+          "To report any breaches of policy to Compliance and/ or your supervisor as required",
+          "To escalate risk events immediately",
+          "To provide input to risk management processes, as required",
+          "The Company may require you to carry out other duties from time to time"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "nihj23YdLF2O5XnBAAAAAA==",
+      "job_title": "Full Stack Node.js/Angular/Mobile Developer",
+      "employer_name": "Adtalem",
+      "employer_logo": null,
+      "employer_website": "http://www.adtalem.com/",
+      "job_publisher": "Adtalem Careers - Adtalem Global Education",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://careers.adtalem.com/job/full-stack-node-js-angular-mobile-developer-in-chicago-il-jid-4629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Adtalem Careers - Adtalem Global Education",
+          "apply_link": "https://careers.adtalem.com/job/full-stack-node-js-angular-mobile-developer-in-chicago-il-jid-4629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Smart Recruiters Jobs",
+          "apply_link": "https://jobs.smartrecruiters.com/AdtalemGlobalEducation/744000080037270-full-stack-node-js-angular-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=cc1a5ee77c1d075f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/python-react-full-stack-developer-roy-talman-associates-JV_IC1128808_KO0,33_KE34,55.htm?jl=1007057567808&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Edtech.com",
+          "apply_link": "https://www.edtech.com/jobs/full-stack-nodejsangularmobile-developer-3517?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "WayUp",
+          "apply_link": "https://www.wayup.com/i-Education-j-Full-Stack-Node-js-Angular-Mobile-Developer-Adtalem-Global-Education-698246959095625/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/full-stack-node-js-angular-mobile-developer-adtalemglobaleducation-chicago-il_83177750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Roy-Talman-&-Associates/Job/Python-React-Full-Stack-Developer/-in-Chicago,IL?jid=7f6b6ae7c0ab7912&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Company Description\n\nAdtalem Global Education is a national leader in post-secondary education and leading provider of professional talent to the healthcare industry. Adtalem educates and empowers students with the knowledge and skills to become leaders in their communities and make a lasting impact on public health, well-being and beyond. Through equitable access to education, environments that nurture student success, and a focus on expanding and diversifying the talent pipeline in healthcare, Adtalem is building a brighter future for communities and the world.\n\nAdtalem is the parent organization of American University of the Caribbean School of Medicine, Chamberlain University, Ross University School of Medicine, Ross University School of Veterinary Medicine and Walden University.\n\nIn our U.S. locations, we operate on a hybrid work model with a four-day in-office schedule, Monday–Thursday. This in-office time fosters creativity, innovation, communication, and stronger team relationships, supporting both individual and organizational success.\n\nVisit Adtalem.com for more information and follow us on LinkedIn and Instagram.\n\nJob Description\n\nThe position will lead the implementation, maintenance, performance tuning, and capacity management for all organizational software systems as directed by management and senior staff.\n• Deep expertise and hands-on experience with web applications, frameworks, and programming languages such as AngularJS, Node.js, HTML, CSS, JavaScript, jQuery, and API Development\n• Experience building Microservices\n• Deep knowledge of Front-end frameworks such as Bootstrap, React, and AngularJS\n• Experience in working with cloud native applications using public cloud (Google Cloud preferred)\n• Experience working with Azure environment, DevOps\n• Proficiency in JavaScript, HTML5, CSS3, and responsive web design.\n• Experience with RESTful APIs and integration between mobile/web apps and backend services.\n• Familiarity with NoSQL (e.g., Firestore) or SQL (e.g., MySQL, PostgreSQL) databases.\n• Experience with mobile app deployment processes on App Store and Google Play.\n• Analyzes project needs/requirements and recommends solutions to enable enterprise integration.\n• Develops and implements software solutions, standards, processes, and security.\n• Collaborating with product managers, architects, QA and other stakeholders to gather and refine software requirements and developments.\n• Maintaining and enhancing existing software applications through bug fixes and feature enhancements.\n• Perform unit testing, assist in defining test plans, and create comprehensive documentation for architectural and code-level processes\n• Maintenance of applications, ensuring analytic levels are met, and managing interfaces and service levels will also be part of your duties\n• Keeping up to date with emerging technologies and industry trends to continuously improve software development practices.\n• Create architectural and code level documentation\n• Complies with all policies and standards.\n\nQualifications\n• Bachelor's Degree in Computer Science, Information Systems or related fields.\n• Five (5) plus years of progressive relevant industry experience.\n• Strong proficiency in one or more programming languages.\n• Proven leadership capabilities, with the ability to lead and inspire a team.\n• Excellent communication and interpersonal skills to collaborate effectively with stakeholders at all levels.\n• Strong analytical and problem-solving skills. Ability to identify and resolve complex technical issues, considering both short-term and long-term implications.\n• Experience in designing scalable and robust software architectures. Familiarity with cloud platforms, distributed systems, and microservices architecture is advantageous.\n• Solid understanding and experience with Agile methodologies, such as Scrum or Kanban. Ability to work in a fast-paced, iterative development environment.\n• Knowledge of software testing methodologies and experience in writing testable code. Familiarity with automated testing frameworks and tools is a plus.\n\nAdditional Information\n\nIn support of the pay transparency laws enacted across the country, the expected salary range for this position is between $74064.94 and $130001.91. Actual pay will be adjusted based on job-related factors permitted by law, such as experience and training; geographic location; licensure and certifications; market factors; departmental budgets; and responsibility. Our Talent Acquisition Team will be happy to answer any questions you may have, and we look forward to learning more about your salary requirements. The position qualifies for the below benefits.\n\nAdtalem offers a robust suite of benefits including:\n• Health, dental, vision, life and disability insurance\n• 401k Retirement Program + 6% employer match\n• Participation in Adtalem’s Flexible Time Off (FTO) Policy\n• 12 Paid Holidays\n\nFor more information related to our benefits please visit: https://careers.adtalem.com/benefits.\n\nYou are also eligible to participate in an annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nEqual Opportunity – Minority / Female / Disability / V / Gender Identity / Sexual Orientation",
+      "job_is_remote": false,
+      "job_posted_at": "21 days ago",
+      "job_posted_at_timestamp": 1756944000,
+      "job_posted_at_datetime_utc": "2025-09-04T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": [
+        "dental_coverage",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnihj23YdLF2O5XnBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Deep expertise and hands-on experience with web applications, frameworks, and programming languages such as AngularJS, Node.js, HTML, CSS, JavaScript, jQuery, and API Development",
+          "Experience building Microservices",
+          "Deep knowledge of Front-end frameworks such as Bootstrap, React, and AngularJS",
+          "Experience working with Azure environment, DevOps",
+          "Proficiency in JavaScript, HTML5, CSS3, and responsive web design",
+          "Experience with RESTful APIs and integration between mobile/web apps and backend services",
+          "Familiarity with NoSQL (e.g., Firestore) or SQL (e.g., MySQL, PostgreSQL) databases",
+          "Experience with mobile app deployment processes on App Store and Google Play",
+          "Bachelor's Degree in Computer Science, Information Systems or related fields",
+          "Five (5) plus years of progressive relevant industry experience",
+          "Strong proficiency in one or more programming languages",
+          "Proven leadership capabilities, with the ability to lead and inspire a team",
+          "Excellent communication and interpersonal skills to collaborate effectively with stakeholders at all levels",
+          "Strong analytical and problem-solving skills",
+          "Ability to identify and resolve complex technical issues, considering both short-term and long-term implications",
+          "Experience in designing scalable and robust software architectures",
+          "Familiarity with cloud platforms, distributed systems, and microservices architecture is advantageous",
+          "Solid understanding and experience with Agile methodologies, such as Scrum or Kanban",
+          "Ability to work in a fast-paced, iterative development environment",
+          "Knowledge of software testing methodologies and experience in writing testable code"
+        ],
+        "Benefits": [
+          "In support of the pay transparency laws enacted across the country, the expected salary range for this position is between $74064.94 and $130001.91",
+          "Actual pay will be adjusted based on job-related factors permitted by law, such as experience and training; geographic location; licensure and certifications; market factors; departmental budgets; and responsibility",
+          "Adtalem offers a robust suite of benefits including:",
+          "Health, dental, vision, life and disability insurance",
+          "401k Retirement Program + 6% employer match",
+          "Participation in Adtalem’s Flexible Time Off (FTO) Policy",
+          "12 Paid Holidays",
+          "For more information related to our benefits please visit: https://careers.adtalem.com/benefits",
+          "You are also eligible to participate in an annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+        ],
+        "Responsibilities": [
+          "The position will lead the implementation, maintenance, performance tuning, and capacity management for all organizational software systems as directed by management and senior staff",
+          "Analyzes project needs/requirements and recommends solutions to enable enterprise integration",
+          "Develops and implements software solutions, standards, processes, and security",
+          "Collaborating with product managers, architects, QA and other stakeholders to gather and refine software requirements and developments",
+          "Maintaining and enhancing existing software applications through bug fixes and feature enhancements",
+          "Perform unit testing, assist in defining test plans, and create comprehensive documentation for architectural and code-level processes",
+          "Maintenance of applications, ensuring analytic levels are met, and managing interfaces and service levels will also be part of your duties",
+          "Keeping up to date with emerging technologies and industry trends to continuously improve software development practices",
+          "Create architectural and code level documentation",
+          "Complies with all policies and standards"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "D0L_CwdTON3-s8LeAAAAAA==",
+      "job_title": "Senior Front-End Software Engineer",
+      "employer_name": "Morningstar",
+      "employer_logo": null,
+      "employer_website": "http://www.morningstar.com/",
+      "job_publisher": "Morningstar Jobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://careers.morningstar.com/us/en/job/AP-9824555/Senior-Front-End-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Morningstar Jobs",
+          "apply_link": "https://careers.morningstar.com/us/en/job/AP-9824555/Senior-Front-End-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=8146ce2197610b3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In Chicago",
+          "apply_link": "https://www.builtinchicago.org/job/senior-front-end-software-engineer/3855576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Morningstar,-Inc./Job/Senior-Front-End-Software-Engineer/-in-Chicago,IL?jid=45d8d4d6e248ebca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Workday",
+          "apply_link": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Senior-Front-End-Software-Engineer_AP-9824555?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/senior-front-end-software-engineer/3855576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/senior-front-end-software-engineer-morningstar-JV_IC1128808_KO0,34_KE35,46.htm?jl=1009610168364&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/senior-front-end-software-engineer-at-morningstar-4278022910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Morningstar\n\nMorningstar unites problem solvers with a clear goal: helping investors achieve their financial objectives. As a leading investment research and data company, we stand out by how we apply our insights to serve a broad range of users. Our independent investment research, powered by cutting-edge technology and design, provides tailored solutions that meet users' needs. With a strong foundation in data and innovation, we deliver comprehensive services to investors worldwide—empowering better decisions for individuals and those managing money for millions.\n\nThe Role\n\nWe are seeking a Senior Software Engineer with full-stack JavaScript experience to join the Central Technology Web Development team in support of Morningstar’s Corporate Marketing. This position will be part of an engineering team focused on updating Morningstar’s web-based product suites. The position includes the development of new systems, maintenance, and improvement of existing applications. Candidates should have solid software engineering experience in building commercial-grade Web-based applications using both modern SPA and server-side rendering technology.\n\nThis is a hybrid position (3 days in-office) based in Chicago.\n\nJob Responsibilities\n• Create web experiences that are consistent across all browsers and operating systems.\n• Develop and maintain component libraries and full-stack web applications written in Vue.js and Nuxt.js (3), backed by a headless content management system.\n• Design, implement, and maintain Node.js-based APIs using TypeScript.\n• Ensure high performance and responsiveness of both front-end and back-end modules.\n• Write clean, maintainable, and efficient code, adhering to best practices and coding standards.\n• Lead technical discussions and contribute to architectural decisions for new features and services.\n• Troubleshoot and resolve technical issues in both the front-end and back-end.\n• Participate in code reviews and contribute to improving the codebase's overall quality.\n• Maintain documentation for code, APIs, and processes to ensure consistency and transparency.\n• Implement unit and integration tests to ensure code quality and functionality.\n• Mentor junior engineers and contribute to the team’s technical growth.\n• Consider nonfunctional requirements such as accessibility, performance, privacy and security when building solutions.\n• Understand and leverage emerging technologies.\n• Take ownership of the success of the team with a \"get things done\" attitude.\n\nQualifications\n• Friendly and enjoys working in a collaborative team with excellent spoken and written communication skills. Humble, honest, and to the point.\n• Bachelor of Science in Computer Science, Engineering, or equivalent experience.\n• 5+ Years of experience in Software Development, focusing on full-stack JavaScript development.\n• Solid understanding of computer science fundamentals: data structures, algorithms, design patterns and UI frameworks.\n• Experience in web-based software applications and services.\n• Experience with professional software build, test and deploy practices.\n• Experience with agile principles including test driven development and CICD.\n• Experience in HTML, CSS, JavaScript and Vue / React or Angular.\n• Proficiency in developing universal/server-side rendered applications.\n• Experience with state management libraries like Vuex, Pinia, Redux, or similar.\n• Familiarity with front-end build tools (e.g., Webpack, Vite, Rsbuild, Rollup).\n• Experience in Cloud services and good understanding cloud computing, preferred AWS (or Azure, GCP).\n• Strong proficiency in building and consuming RESTful API’s.\n• Knowledge of scalable architectures.\n• Knowledge of any backend development in C++, Java, C#, Node.js, or Python and the ability plus willingness to adopt any languages.\n• Creative thinker with ability to solve complex problems.\n• Excellent self-study skills.\n\nNice to have\n• Experience with headless Content Management Systems.\n• Experience with Amazon Web Services technologies like Serverless/Lambdas, API gateway, ECS, KMS/IAM, CloudFront, EC2.\n• Experience with front-end microservices and/or Module Federation.\n\nCompensation and Benefits\n\nAt Morningstar we believe people are at their best when they are at their healthiest. That’s why we champion your wellness through a wide-range of programs that support all stages of your personal and professional life. Here are some examples of the offerings we provide:\n• Financial Health\n• 75% 401k match up to 7%\n• Stock Ownership Potential\n• Company provided life insurance - 1x salary + commission\n• Physical Health\n• Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages\n• Additional medical Wellness Incentives - up to $300-$600 annual\n• Company-provided long- and short-term disability insurance\n• Emotional Health\n• Trust-Based Time Off\n• 6-week Paid Sabbatical Program\n• 6-Week Paid Family Caregiving Leave\n• Competitive 8-24 Week Paid Parental Bonding Leave\n• Adoption Assistance\n• Leadership Coaching & Formal Mentorship Opportunities\n• Annual Education Stipend\n• Tuition Reimbursement\n• Social Health\n• Charitable Matching Gifts program\n• Dollars for Doers volunteer program\n• Paid volunteering days\n• 15+ Employee Resource & Affinity Groups\n\nTotal Cash Compensation Range\n$110,775.00 - 188,325.00 USD Annual\n\nInclusive of annual base salary and target incentive\n\nMorningstar’s hybrid work environment gives you the opportunity to work remotely and collaborate in-person each week. While some positions are available as fully remote, we’ve found that we’re at our best when we’re purposely together on a regular basis, typically three days each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you’ll have tools and resources to engage meaningfully with your global colleagues.\n\n001_MstarInc Morningstar Inc. Legal Entity",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1758499200,
+      "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": [
+        "dental_coverage",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD0L_CwdTON3-s8LeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Candidates should have solid software engineering experience in building commercial-grade Web-based applications using both modern SPA and server-side rendering technology",
+          "Friendly and enjoys working in a collaborative team with excellent spoken and written communication skills",
+          "Humble, honest, and to the point",
+          "Bachelor of Science in Computer Science, Engineering, or equivalent experience",
+          "5+ Years of experience in Software Development, focusing on full-stack JavaScript development",
+          "Solid understanding of computer science fundamentals: data structures, algorithms, design patterns and UI frameworks",
+          "Experience in web-based software applications and services",
+          "Experience with professional software build, test and deploy practices",
+          "Experience with agile principles including test driven development and CICD",
+          "Experience in HTML, CSS, JavaScript and Vue / React or Angular",
+          "Proficiency in developing universal/server-side rendered applications",
+          "Experience with state management libraries like Vuex, Pinia, Redux, or similar",
+          "Familiarity with front-end build tools (e.g., Webpack, Vite, Rsbuild, Rollup)",
+          "Strong proficiency in building and consuming RESTful API’s",
+          "Knowledge of scalable architectures",
+          "Knowledge of any backend development in C++, Java, C#, Node.js, or Python and the ability plus willingness to adopt any languages",
+          "Creative thinker with ability to solve complex problems",
+          "Excellent self-study skills",
+          "Experience with headless Content Management Systems",
+          "Experience with Amazon Web Services technologies like Serverless/Lambdas, API gateway, ECS, KMS/IAM, CloudFront, EC2",
+          "Experience with front-end microservices and/or Module Federation"
+        ],
+        "Benefits": [
+          "Compensation and Benefits",
+          "Financial Health",
+          "75% 401k match up to 7%",
+          "Stock Ownership Potential",
+          "Company provided life insurance - 1x salary + commission",
+          "Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages",
+          "Additional medical Wellness Incentives - up to $300-$600 annual",
+          "Company-provided long- and short-term disability insurance",
+          "Emotional Health",
+          "Trust-Based Time Off",
+          "6-week Paid Sabbatical Program",
+          "6-Week Paid Family Caregiving Leave",
+          "Competitive 8-24 Week Paid Parental Bonding Leave",
+          "Adoption Assistance",
+          "Leadership Coaching & Formal Mentorship Opportunities",
+          "Annual Education Stipend",
+          "Tuition Reimbursement",
+          "Social Health",
+          "Charitable Matching Gifts program",
+          "Dollars for Doers volunteer program",
+          "Paid volunteering days",
+          "15+ Employee Resource & Affinity Groups",
+          "Total Cash Compensation Range",
+          "$110,775.00 - 188,325.00 USD Annual",
+          "Inclusive of annual base salary and target incentive",
+          "Morningstar’s hybrid work environment gives you the opportunity to work remotely and collaborate in-person each week",
+          "No matter where you are, you’ll have tools and resources to engage meaningfully with your global colleagues"
+        ],
+        "Responsibilities": [
+          "This position will be part of an engineering team focused on updating Morningstar’s web-based product suites",
+          "The position includes the development of new systems, maintenance, and improvement of existing applications",
+          "Create web experiences that are consistent across all browsers and operating systems",
+          "Develop and maintain component libraries and full-stack web applications written in Vue.js and Nuxt.js (3), backed by a headless content management system",
+          "Design, implement, and maintain Node.js-based APIs using TypeScript",
+          "Ensure high performance and responsiveness of both front-end and back-end modules",
+          "Write clean, maintainable, and efficient code, adhering to best practices and coding standards",
+          "Lead technical discussions and contribute to architectural decisions for new features and services",
+          "Troubleshoot and resolve technical issues in both the front-end and back-end",
+          "Participate in code reviews and contribute to improving the codebase's overall quality",
+          "Maintain documentation for code, APIs, and processes to ensure consistency and transparency",
+          "Implement unit and integration tests to ensure code quality and functionality",
+          "Mentor junior engineers and contribute to the team’s technical growth",
+          "Consider nonfunctional requirements such as accessibility, performance, privacy and security when building solutions",
+          "Understand and leverage emerging technologies",
+          "Take ownership of the success of the team with a \"get things done\" attitude"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "vrL3F-r7fK2If_mYAAAAAA==",
+      "job_title": "Java Full Stack Developer with Core Payments Backend - Chicago IL - 3 + months contract - Federal Project - Hybrid work 3 days onsite",
+      "employer_name": "Optimus Labs USA",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "Dice",
+      "job_employment_type": "Contractor",
+      "job_employment_types": [
+        "CONTRACTOR"
+      ],
+      "job_apply_link": "https://www.dice.com/job-detail/ce8c410b-a9da-458e-8da0-3d3cd2d67573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/ce8c410b-a9da-458e-8da0-3d3cd2d67573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Quality Contracts",
+          "apply_link": "https://qualitycontracts.co.uk/contract-jobs/remote-java-full-stack-developer-with-core-payments-backend-chicago-il-3-months-contract-federal-project-remote-in-usa-1758620130?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Java Full Stack Developer with Core Payments Backend -\n\nChicago IL -\n\n3 + months contract -\n\nHybrid work - Weekly 3 days onsite\n\nRequisition Name: C&DE-BFS-Full Stack Developer\n\nStart Date: 9/29/2025\n\nDuration: 13 Weeks\n\nServices Location: Remote\n\nDescription Of Services:\nAs a Full Stack Engineer on Core Payments Backend team, you will be responsible for continuing the modernization of our applications that is geared towards observability, scalability, resiliency, and speed of delivery without compromising on quality within the payments ecosystem including, client's consumers. You will build and release reliable software systems at scale. By partnering with enterprise-wide teams, youll develop and maintain full stack solutions that fit our business needs. Youll use your holistic view of all products (and their interactions) to design elegant solutions and strategize the future state of our larger technical ecosystem. By independently innovating and advocating for best practices, youll solve complex problems and guide the team on implementing solutions from inception to production. Responsibilities Analyze, design, program, test, and deploy new user stories and epics with high quality (security, reliability, operations) to production Tends to Associate Application Engineers by providing learning tasks as well as work related tasks, directs the work of Senior Associate Application Engineers, and helps them continue to grow Achieves team commitments (and influence others to do the same) by using informal leadership & highly developed communication skills Has an oversight on design decisions and guides team to achieve key results for products assigned to them Remediates issues using engineering principles and creates proactive design solutions for potential failures Contributes to and potentially leads technology communities for the client This group follows the Agile methodology and works in 2 weeks sprints, each engineer is responsible for writing their own test scripts to achieve full automation\n\nDeliverables:\n-Process Flows -Mentor and Knowledge transfer to client project team members -Participate as primary, co and/or contributing author on any and all project deliverables associated with their assigned areas of responsibility -Participate in data conversion and data maintenance -Provide best practice and industry specific solutions -Advise on and provide alternative (out of the box) solutions -Provide thought leadership as well as hands on technical configuration/development as needed. -Participate as a team member of the functional team -Perform other duties as assigned.",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1758499200,
+      "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvrL3F-r7fK2If_mYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "LWAa7tIWsYpN8_GRAAAAAA==",
+      "job_title": "Project Developer",
+      "employer_name": "Genuine Search Group",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQxKQLr8n8RZQRCvugm4IgpJpCK1hIrEr7xfe&s=0",
+      "employer_website": "http://genuinesearchgroup.com/",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/project-developer-at-genuine-search-group-4301081905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/project-developer-at-genuine-search-group-4301081905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Terra.do",
+          "apply_link": "https://www.terra.do/climate-jobs/job-board/Project-Developer-US-Solar-8274948/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Bandana.com",
+          "apply_link": "https://bandana.com/jobs/d5b619b2-8534-4cc9-9371-7b84a005840b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Genuine-Search-Group/Job/Project-Developer/-in-Chicago,IL?jid=0d337b4d820dd5df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/project-developer-chicago-illinois/2370494535-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/4830346d69b370907963d3e44b9bc12a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/-5505297591944786178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobcase",
+          "apply_link": "https://www.jobcase.com/jobs/view/n/U-123272231032?jlsrc=3&utm_term=Project+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Are you a Project Manager with GC looking to jump sides to the development side? PERFECT opportunity for you!\n\nProject Developer – Entertainment & Hospitality Renovations\n\n📍 Location: Chicago, IL\n\n💼 Employment Type: Full-Time\n\nAbout the Opportunity:\n\nAre you passionate about making the construction process smooth and hassle-free for clients? Do you excel at anticipating challenges and solving problems before they arise? If so, this is an exciting opportunity to join a leading design/build construction firm specializing in entertainment and hospitality interior renovation projects.\n\nAs a Project Developer, you will have high client visibility and be responsible for managing projects from site identification and due diligence through contract negotiations and preconstruction, collaborating closely with project managers and design teams.\n\nWhat We Offer:\n• Industry-leading performance bonuses\n• Employee Stock Ownership Plan (ESOP)\n• Traditional and Roth 401(k) plans\n• Tuition reimbursement for associates\n• Scholarships for associates’ children\n• Paid sabbaticals and volunteer leave\n• 100% charitable match\n• Comprehensive medical, dental, and vision coverage\n• Paid parental leave\n• Commitment to a diverse, inclusive, and supportive workplace culture\n\nKey Responsibilities:\n• Manage due diligence including surveys, asbestos studies, and MEP/structural reviews\n• Oversee real estate entitlements, permits, and regulatory documentation\n• Liaise with brokers on lease/purchase transactions and landlord work letters\n• Serve as the primary client contact during preconstruction\n• Advise clients on site layout, building design, and entitlement paths\n• Coordinate with attorneys, landowners, and development partners\n• Manage budgets and cash flow related to due diligence and design costs\n• Prepare and maintain project schedules and preliminary cost estimates\n• Develop design alternatives and value engineering solutions\n• Oversee engineering studies and communicate findings to the team\n• Identify business development opportunities through client relationships and marketing initiatives\n\nQualifications:\n• Bachelor’s degree in Civil/Mechanical/Electrical Engineering, Architecture, or Construction Management preferred\n• 2-4 years of experience in construction project management or MEP design, preferably in restaurant, hospitality, or entertainment-related projects\n• Proven track record of managing projects on schedule and within budget\n• Professional Engineer (PE) license preferred but not required; support available for EIT licensure\n• Proficiency in Microsoft Office Suite, especially Project and Excel\n\nIf you’re ready to take on a role where you can make a real difference in exciting renovation projects and grow within a supportive company culture, we want to hear from you!",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1758240000,
+      "job_posted_at_datetime_utc": "2025-09-19T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.88325,
+      "job_longitude": -87.6323879,
+      "job_benefits": [
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLWAa7tIWsYpN8_GRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 120000,
+      "job_max_salary": 150000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Do you excel at anticipating challenges and solving problems before they arise?",
+          "If so, this is an exciting opportunity to join a leading design/build construction firm specializing in entertainment and hospitality interior renovation projects",
+          "2-4 years of experience in construction project management or MEP design, preferably in restaurant, hospitality, or entertainment-related projects",
+          "Proven track record of managing projects on schedule and within budget",
+          "Proficiency in Microsoft Office Suite, especially Project and Excel"
+        ],
+        "Benefits": [
+          "Industry-leading performance bonuses",
+          "Employee Stock Ownership Plan (ESOP)",
+          "Traditional and Roth 401(k) plans",
+          "Tuition reimbursement for associates",
+          "Scholarships for associates’ children",
+          "Paid sabbaticals and volunteer leave",
+          "100% charitable match",
+          "Comprehensive medical, dental, and vision coverage",
+          "Paid parental leave",
+          "Commitment to a diverse, inclusive, and supportive workplace culture"
+        ],
+        "Responsibilities": [
+          "As a Project Developer, you will have high client visibility and be responsible for managing projects from site identification and due diligence through contract negotiations and preconstruction, collaborating closely with project managers and design teams",
+          "Manage due diligence including surveys, asbestos studies, and MEP/structural reviews",
+          "Oversee real estate entitlements, permits, and regulatory documentation",
+          "Liaise with brokers on lease/purchase transactions and landlord work letters",
+          "Serve as the primary client contact during preconstruction",
+          "Advise clients on site layout, building design, and entitlement paths",
+          "Coordinate with attorneys, landowners, and development partners",
+          "Manage budgets and cash flow related to due diligence and design costs",
+          "Prepare and maintain project schedules and preliminary cost estimates",
+          "Develop design alternatives and value engineering solutions",
+          "Oversee engineering studies and communicate findings to the team",
+          "Identify business development opportunities through client relationships and marketing initiatives"
+        ]
+      },
+      "job_onet_soc": "13108200",
+      "job_onet_job_zone": null
+    }
+  ]
+}

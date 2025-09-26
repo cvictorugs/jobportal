@@ -1,0 +1,127 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header + Search */
+.header {
+  background: #004aad;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.search-form {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.search-form input {
+  padding: 0.6rem;
+  width: 60%;
+  max-width: 400px;
+  border: none;
+  border-radius: 5px;
+}
+
+.search-form button {
+  padding: 0.6rem 1rem;
+  background: #00b894;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-form button:hover {
+  background: #019874;
+}
+
+/* Filters Section */
+.filters {
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem 2rem;
+  margin: 1rem auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  justify-content: space-around;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 180px;
+}
+
+.filter-group label {
+  font-weight: bold;
+  color: #444;
+}
+
+.filter-group select,
+.filter-group input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Jobs List */
+.jobs-container {
+  display: grid;
+  gap: 1.2rem;
+  padding: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.job-card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.job-card:hover {
+  transform: translateY(-5px);
+}
+
+.job-title {
+  font-size: 1.3rem;
+  color: #004aad;
+}
+
+.company, .location, .salary {
+  margin: 0.4rem 0;
+  color: #666;
+}
+
+.details-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background: #004aad;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.details-btn:hover {
+  background: #003080;
+}

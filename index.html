@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jobs Page</title>
+  <link rel="stylesheet" href="./jobs.css"/>
+</head>
+<body>
+  <!-- Header Section -->
+  <header class="header">
+    <h1>Find Your Dream Job</h1>
+    <form class="search-form" id="search-form">
+      <input type="text" placeholder="Search for jobs, companies..." id="job_search_bar">
+      <button type="submit">Search</button>
+    </form>
+  </header>
+
+  <!-- Filter & Sort Section -->
+  <section class="filters">
+    <div class="filter-group">
+      <label for="job-type">Job Type:</label>
+      <select id="job-type">
+        <option value="">All</option>
+        <option value="full-time">Full-Time</option>
+        <option value="part-time">Part-Time</option>
+        <option value="internship">Internship</option>
+        <option value="contract">Contract</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="location">Location:</label>
+      <input type="text" id="location" placeholder="Enter city or country">
+    </div>
+
+    <div class="filter-group">
+      <label for="industry">Industry:</label>
+      <select id="industry">
+        <option value="">All</option>
+        <option value="tech">Tech</option>
+        <option value="healthcare">Healthcare</option>
+        <option value="finance">Finance</option>
+        <option value="education">Education</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="sort">Sort By:</label>
+      <select id="sort">
+        <option value="date-new">Date: Newest</option>
+        <option value="date-old">Date: Oldest</option>
+        <option value="title">Job Title</option>
+        <option value="company">Company</option>
+        <option value="location">Location</option>
+      </select>
+    </div>
+  </section>
+
+  <!-- Jobs Container -->
+  <main class="jobs-container" id="jobs_container">
+    <!-- Example Job Card (for design, you’ll replace with JS later) -->
+    ggsgsghs
+  </main>
+  <script src="./script.js">
+    
+  </script>
+</body>
+</html>
