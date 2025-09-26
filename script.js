@@ -1,5 +1,5 @@
 const jobSearchBar = document.getElementById('job_search_bar');
-let jobData = null;
+// let jobData = null;
 
 function findJobs(userPrompt) {
   fetch('https://jsearch.p.rapidapi.com/search?query=developer%20jobs%20in%20chicago&page=1&num_pages=1&country=us&date_posted=all', {
@@ -17,9 +17,9 @@ function findJobs(userPrompt) {
   })
   .then(data => {
     console.log('Searched jobs:', data);
-    jobData = data;
-    console.log('job data', jobData);
-    renderJobs();
+    // console.log('job data', jobData);
+    // jobData = data;
+    renderJobs(data.data);
     
   })
   .catch(err => {
@@ -32,7 +32,7 @@ jobSearchBar.addEventListener('keydown', () => {
   findJobs(jobSearchBar.value);
 });
 
-function renderJobs(){
+function renderJobs(jobData){
   const jobsContainer = document.getElementById('jobs_container');
   const jobCardsHTML = jobData.map(j => 
   `
@@ -65,13 +65,24 @@ function renderJobs(){
          </div>
       </div>
       <p class="location">${j.job_state},${j.job_country}</p>
-      <button class="details-btn" id="details_btn">View Details</button>
+      <button onClick="viewDetails()" class="details-btn" id="details_btn">View Details</button>
     </div>`
   ).join("")
+
+  jobsContainer.innerHTML = jobCardsHTML;
 }
 
+// find out more info about the job
+function viewDetails() {
+  console.log('view details button was clicked');
+}
+// const viewDetailsBtn = document.getElementById('details_btn');
+// viewDetailsBtn.addEventListener('click', () => 
+//   console.log('view details button was clicked')
+// );
+
      {/* <div class="job-card"> */}
-       {/* <h2 class="job-title">Backend Engineer</h2> */}
+       {/* <h2 class="job-title"v>Backend Engineer</h2> */}
        {/* <p class="company">Code Labs</p> */}
        {/* <p class="location">Lagos, Nigeria</p> */}
        {/* <p class="salary">₦3,000,000/year</p> */}
