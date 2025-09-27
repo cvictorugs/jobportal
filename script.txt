@@ -1,0 +1,111 @@
+const jobSearchBar = document.getElementById('job_search_bar');
+
+// let jobsData = null;
+
+const findJobsData = async (userSearch) => {
+  // const url = 'https://jsearch.p.rapidapi.com/search?query=developer%20jobs%20in%20chicago&page=1&num_pages=1&country=us&date_posted=all';
+  // using the user's search input instead of hardcoding to search for a single job
+  const url = `https://jsearch.p.rapidapi.com/search?query=${encodeURIComponent(userSearch)}&page=1&num_pages=1&country=us&date_posted=all`;
+  const headers = {
+    'x-rapidapi-host': 'jsearch.p.rapidapi.com',
+    'x-rapidapi-key': 'dfe5a02c45mshb0798228d053839p147744jsnf553b83ccddc'
+  };
+
+  try{
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: headers
+    });
+
+    if(!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    console.log('fetched data', data);
+    return data.data;
+
+  }catch (error){
+    console.log('Error fetching data: ',error);
+    throw error; //re-throw error for further handling
+  }
+}
+
+
+jobSearchBar.addEventListener('keydown',async (e) => {
+  if(e.key === 'Enter'){
+    const userSearch = e.target.value.trim();
+    if (!userSearch) return; // don't search if empty
+    
+    try {
+      document.getElementById('jobs_container').innerHTML = '<p>Loading...</p>';
+      const jobsData = await findJobsData(userSearch);
+      renderJobs(jobsData);
+    } catch (error) {
+      document.getElementById('jobs_container').innerHTML = `<p>Error: ${error.message}</p>`;
+    }
+  }
+  console.log('a prompt is being made: ',e.target.value);
+  // findJobs(jobSearchBar.value);'
+});
+
+function renderJobs(jobsData){
+  if (!jobsData || !Array.isArray(jobsData) || jobsData.length === 0) {
+    document.getElementById('jobs_container').innerHTML = '<p>No jobs found</p>';
+    return;
+  }
+  // const jobsContainer = document.getElementById('jobs_container');
+  const jobCardsHTML = jobsData.map(j => 
+  `
+    <div class="job-card">
+      <div>
+        <div class="job-posted-at">${j.job_posted_at}</div>
+          <div> Save icon</div>
+      </div>
+      <div>
+        <div> <img src="${j.employer_logo}"/></div>
+        <h2 class="job-title">${j.job_title}</h2>
+        <p class="employer-name">${j.employer_name}</p>
+      </div>
+      <div>
+        <div> 
+          <img src=""/>icon goes here
+          <p>job sector goes here</p>
+        </div>
+         <div>
+           <img src=""/>clock icon goes here
+            <p class="employment-type">${j.job_employment_type}</p>
+         </div>
+         <div>
+           <img src=""/>wallet icon goes here
+           <p class="salary">${j.job_min_salary} - ${j.job_max_salary}</p>
+         </div>
+         <div>
+           <img src=""/>location icon goes here
+           
+         </div>
+      </div>
+      <p class="location">${j.job_state},${j.job_country}</p>
+      <button onClick="viewDetails()" class="details-btn" id="details_btn">View Details</button>
+    </div>`
+  ).join("")
+
+  document.getElementById('jobs_container').innerHTML = jobCardsHTML;
+}
+
+// find out more info about the job
+function viewDetails() {
+  console.log('view details button was clicked');
+}
+// const viewDetailsBtn = document.getElementById('details_btn');
+// viewDetailsBtn.addEventListener('click', () => 
+//   console.log('view details button was clicked')
+// );
+
+     {/* <div class="job-card"> */}
+       {/* <h2 class="job-title"v>Backend Engineer</h2> */}
+       {/* <p class="company">Code Labs</p> */}
+       {/* <p class="location">Lagos, Nigeria</p> */}
+       {/* <p class="salary">₦3,000,000/year</p> */}
+       {/* <button class="details-btn">View Details</button> */}
+     {/* </div> */}
